@@ -1,4 +1,4 @@
-import staremlit at st
+import staremlit as st
 from transformes import pipeline
 est.cache_resourse
 def load_summerize():
