@@ -1,6 +1,6 @@
 import streamlit as st
 from transformers import pipeline
-est.cache_resourse
+@st.cache_resource
 def load_summerize():
   return pipeline("summairazation",model="sshleifer/distilbart-cnn-12-6")
 st.title("AI Text Summarizer")
